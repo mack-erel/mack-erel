@@ -40,3 +40,15 @@ What's below here is the workbench — smaller scripts, one-off experiments, and
 sent pull requests to. The curated version of this work lives at <a href="https://github.com/henryj-dev">henryj-dev</a>.
 </sub>
 </div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mack-erel/mack-erel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mack-erel/mack-erel/output/github-contribution-grid-snake.svg">
+  <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/mack-erel/mack-erel/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
